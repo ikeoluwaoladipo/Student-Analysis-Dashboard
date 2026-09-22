@@ -169,3 +169,32 @@ Dashboard screenshots will be added to this section to provide a visual preview 
 **Industry:** Education  
 **Tool:** Microsoft Power BI  
 **Role:** Data Analyst / Student Project
+
+## Dashboard Screenshots
+
+### Student Performance Dashboard
+
+![Student Performance Dashboard](Student%20Performance%20Dashboard.png)
+
+### Teacher & Subject Dashboard
+
+![Teacher & Subject Dashboard](Teacher%20%26%20Subject%20Dashboard.png)
+
+### Fee Payment Dashboard
+
+![Fee Payment Dashboard](Fee%20Payment%20Dashboard.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
